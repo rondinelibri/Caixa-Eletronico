@@ -7,6 +7,7 @@
 
             Console.WriteLine("-------------------");
             Console.WriteLine("CAIXA ELETRÔNICO");
+            Console.WriteLine("BEM VINDO");
             Console.WriteLine("-------------------");
             Console.WriteLine("");
 
